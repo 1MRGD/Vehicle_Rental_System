@@ -1,5 +1,3 @@
-# Vehicle_Rental_System
-Vehicle Rental System is a Java console-based application that manages car, bike, and scooter rentals (petrol &amp; electric) with features like availability tracking, rental billing, late return fines, vehicle ratings, and persistent data storage using file handling.
 # 🚗 Vehicle Rental System (Java)
 
 A **console-based Vehicle Rental System** built using **Core Java** that allows users to rent and return **Cars, Bikes, and Scooters** (both **Petrol & Electric**) with real-world features such as billing, late return fines, ratings, and persistent data storage.
@@ -32,3 +30,9 @@ A **console-based Vehicle Rental System** built using **Core Java** that allows 
 
 ## 📂 Project Structure
 
+```text
+Vehicle_Rental_System/
+│
+├── Main.java          # Complete Java application (all logic in one file)
+├── README.md          # Project documentation
+└── .gitignore         # Ignored files (runtime & IDE specific)
